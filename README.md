@@ -21,7 +21,7 @@ There are two broad categories of honeypots:
    * Cowrie
    * Wordpot
 
-![](https://github.com/rusty619/WebSecurity-Weeks-10-11-Project-Honeypot/blob/master/SensorsData.png?raw=true)
+![](https://github.com/rusty619/WebSecurity-Weeks-10-11-Project-Honeypot/blob/master/Types%20of%20HoneyPot.PNG?raw=true)
 
 # Demo
 
