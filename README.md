@@ -16,19 +16,10 @@ There are two broad categories of honeypots:
    
 # A summary of the data collected:
 
-Number of attacks: 12543 TOP 5 Attacker IPs:
-  * 69.118.33.48 : (1,076 attacks)
-  * 5.62.63.222 : (649 attacks)
-  * 77.72.82.101 : (237 attacks)
-  * 61.128.149.63 : (99 attacks)
-  * 123.249.79.250 : (86 attacks)
-  
-TOP 5 Attacked ports (Dionaea):
-  * 5060 (678 times)
-  * 23 (337 times)
-  * 3306 (155 times)
-  * 445 (146 times)
-  * 80 (78 times)
+## Type of HoneyPot that there used
+   * Dionaea
+   * Cowrie
+   * Wordpot
 
 ![](https://github.com/rusty619/WebSecurity-Weeks-10-11-Project-Honeypot/blob/master/SensorsData.png?raw=true)
 
