@@ -14,7 +14,7 @@ There are two broad categories of honeypots:
    * **Low-interaction honeypots** provide simulations of target resources, typically using emulation or virtualization, to reduce resource consumption, simplify configuration and deployment, and provide solid containment features.
    * **High-interaction honeypots** expose non-simulated target resources in a way that more closely imitates a production environment to attract more sophisticated attackers and understand more complicated exploitation routes.
 
-# Type of HoneyPot that there used
+# Type of HoneyPot that were used
    * Dionaea
    * Cowrie
    * Wordpot
